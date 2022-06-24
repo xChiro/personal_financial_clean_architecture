@@ -1,6 +1,6 @@
-using KalanMoney.Domain.Entities.Exceptions;
+using KalanMoney.Domain.Entities.ValueObjects;
 
-namespace KalanMoney.Domain.Entities.Properties;
+namespace KalanMoney.Domain.Entities.ValueObjects;
 
 public record AccountName
 {

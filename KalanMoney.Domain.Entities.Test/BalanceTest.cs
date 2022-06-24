@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace KalanMoney.Domain.Entities.Properties.Test;
+namespace KalanMoney.Domain.Entities.ValueObjects.Test;
 
 public class BalanceTest
 {

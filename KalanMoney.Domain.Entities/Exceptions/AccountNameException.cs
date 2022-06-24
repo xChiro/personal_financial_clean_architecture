@@ -1,4 +1,4 @@
-namespace KalanMoney.Domain.Entities.Exceptions;
+namespace KalanMoney.Domain.Entities.ValueObjects;
 
 public class AccountNameException : Exception
 {
